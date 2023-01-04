@@ -1,3 +1,9 @@
+**This repository is moved to**
+
+https://github.com/hato-ya/CubicTimer/
+
+---
+
 Cubic Timer is a fork project from Twisty Timer by Ari Neto that support external stack timer.
 I really appreciate Ariovaldo Neto that making original Twisty Timer.
 
